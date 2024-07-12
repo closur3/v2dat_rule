@@ -2,7 +2,7 @@
 
 TMP_GEOIP="geoip.dat"
 TMP_GEOSITE="geosite.dat"
-GEOIP=https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geoip.dat
+GEOIP=https://github.com/Loyalsoldier/geoip/releases/latest/download/geoip-only-cn-private.dat
 GEOSITE=https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/geosite.dat
 
 mkdir rule
