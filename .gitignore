@@ -1,4 +1,5 @@
 # release dir
-rule/
+rule/*
+!rule/*.txt
 v2dat-mac
 geo*
